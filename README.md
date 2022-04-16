@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Giovane Felipeli
+- 👨‍💻 Front-end Developer
